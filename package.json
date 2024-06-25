@@ -1,0 +1,26 @@
+{
+  "name": "medic",
+  "version": "1.0.0-dev",
+  "description": "A diagnostic plugin for Lando",
+  "author": "Aaron Feledy @AaronFeledy",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/4lando/medic/issues"
+  },
+  "homepage": "https://github.com/4lando/medic#readme",
+  "keywords": [
+    "lando",
+    "lando-plugin"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": "^18"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4lando/medic.git"
+  }
+}

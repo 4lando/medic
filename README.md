@@ -1,2 +1,2 @@
-# medic
-Medic is a diagnostic tool for Lando
+# Medic for Lando
+Medic is a diagnostic plugin for Lando
