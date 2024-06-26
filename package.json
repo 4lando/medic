@@ -1,5 +1,5 @@
 {
-  "name": "medic",
+  "name": "@4lando/medic",
   "version": "1.0.0-dev",
   "description": "A diagnostic plugin for Lando",
   "author": "Aaron Feledy @AaronFeledy",
