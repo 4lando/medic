@@ -22,5 +22,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/4lando/medic.git"
+  },
+  "devDependencies": {
+    "@lando/core": "^3.21.2"
   }
 }
