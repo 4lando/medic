@@ -5,9 +5,9 @@
   "author": "Aaron Feledy @AaronFeledy",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/4lando/medic/issues"
+    "url": "https://github.com/lando-community/medic/issues"
   },
-  "homepage": "https://github.com/4lando/medic#readme",
+  "homepage": "https://github.com/lando-community/medic#readme",
   "keywords": [
     "lando",
     "lando-plugin"
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/4lando/medic.git"
+    "url": "git+https://github.com/lando-community/medic.git"
   },
   "devDependencies": {
     "@lando/core": "^3.21.2"
